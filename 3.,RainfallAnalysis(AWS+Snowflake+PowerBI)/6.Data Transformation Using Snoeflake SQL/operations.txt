@@ -1,0 +1,19 @@
+op1.creating table Agriculture
+
+op2.incresing the values in the rainfall coloumn by 10% in the agiculture table
+
+op3.Reducing the values in the area coloumn by 10%
+
+op4. arraning the data such that :(as the min year us 2009 and max year is 2019)
+A.-if record btwn year 2004 to 2009 - place in category Y1 in year coloumn 
+
+B.-if record btwn year 2010 to 2015 - place in category Y2 in year coloumn 
+
+
+C.-if record btwn year 2016 to 2019 - place in category Y3 in year coloumn 
+
+
+
+op5.Dislpying the new agriculture table with Year Group coloumn -using select statement
+
+

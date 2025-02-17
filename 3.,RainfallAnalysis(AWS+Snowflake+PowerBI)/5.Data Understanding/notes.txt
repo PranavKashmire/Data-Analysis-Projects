@@ -1,0 +1,5 @@
+by exploring the data we can understand about it ,
+
+Also by applying transformations(like ascending,desending,max ,min,sorting data) to the data we can understand the data more better.
+
+Also we can use the chart view to undersstand data visually,

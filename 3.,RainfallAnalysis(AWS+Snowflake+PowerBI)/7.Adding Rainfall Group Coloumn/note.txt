@@ -1,0 +1,19 @@
+We want to add a new coloumn -Rainfall groups , where we want to categories the data into 3 categories:
+- low(255 to 1200)
+-medium(1200- 2800)
+-high(2800 - 4103)
+
+Here after performing ascending and descending operation on the rainfall coloumn we got that max value is 4102.78 and min is 256.3 i.e approx 255.
+
+
+
+op1. adding the rainfall_groups coloumn In agriculture table
+
+op2. low cateogory updation
+
+op3. medium cateogory updation
+
+op4. high cateogory updation
+
+
+op5.- dislpying the table to see new coloumn Rainfall_groups 

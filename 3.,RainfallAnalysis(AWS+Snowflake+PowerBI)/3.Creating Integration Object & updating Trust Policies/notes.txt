@@ -1,0 +1,1 @@
+while updating the trust ploicies in the AWS , we need to update the arn and external ID 
