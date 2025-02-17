@@ -1,0 +1,9 @@
+1.first we will create a db where our table will reside :
+    create database [Tableau Project 1]
+
+
+2.now will use it : (no image needed)
+   use [Tableau Project 1]
+
+3.now will simply run a select statement :
+  select * from [dbo].[Depression Student Dataset]

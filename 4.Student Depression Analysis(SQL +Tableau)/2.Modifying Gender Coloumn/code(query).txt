@@ -1,0 +1,19 @@
+
+Op1:
+select Gender,count(*) from [dbo].[Depression Student Dataset]
+group by Gender
+
+Op2:(if we want to show gender female as F and men as M)-
+update [dbo].[Depression Student Dataset]
+set Gender = 'F' where Gender = 'Female'
+
+update [dbo].[Depression Student Dataset]
+set Gender = 'M' where Gender = 'male'
+
+OP3:TO check null values in gender coloumn -
+select * from [dbo].[Depression Student Dataset]
+where Gender is null
+
+OP4:TO check blank values in gender coloumn -
+select * from [dbo].[Depression Student Dataset]
+where Gender = ''

@@ -1,0 +1,23 @@
+OP1(displying the table):
+select * from [Depression Student Dataset]
+
+OP2(addding index coloumn to identify each record,the value will start from 1 , and in each new row 1 will be incremented):
+alter table [Depression Student Dataset]
+add Index_Column int identity(1,1)
+
+OP3(we want to change to values in the depression coloum such that on place of 0 "no" should be present):
+update [Depression Student Dataset]
+set Depression = 'No' where Depression = 0
+
+select * from INFORMATION_SCHEMA.columns where TABLE_NAME LIKE 'Depression Student Dataset'
+
+OP4(before op3 we need to first run below query, this query cconverts the data type "bit" to Varchar:
+ALTER TABLE [Depression Student Dataset]
+ALTER COLUMN DEPRESSION VARCHAR(MAX)
+
+OP5(on place of 1 "yes" should come):
+UPDATE [Depression Student Dataset]
+set Depression = 'Yes' where Depression = '1'
+
+OP6(grouping according to yes and no):
+select Depression,count(*) from [Depression Student Dataset] group by Depression
