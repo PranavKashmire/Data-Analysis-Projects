@@ -1,0 +1,10 @@
+NOTE- 1.observation & Transformations And first major steps to understand the data.
+2.we must check datatypes for each coloumn before proceeding .
+
+
+
+3.. we understood the data b observation different coloumns and their data types.
+
+Transformations :
+1. changed the data type of coloumn "customerAccountNumber" from WholeNumber to text.
+2. changed the data type of coloumn "merchantAccountNumber" from WholeNumber to text.

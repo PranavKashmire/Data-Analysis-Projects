@@ -1,0 +1,4 @@
+1.we need to change the coloumn profiling from top 1000rows to entire data set.(see image CP-entireDataset.png) 
+
+2.coloumn profiling is imp to understand the data and identifying errors,missing values etc
+

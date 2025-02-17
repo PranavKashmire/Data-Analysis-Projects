@@ -1,0 +1,5 @@
+If we apply filters on 1 page , and we want it to be automatically applied to other pages , then this can be achieved by sync Slicer .
+(see image 1SyncSlicer.png)
+
+
+

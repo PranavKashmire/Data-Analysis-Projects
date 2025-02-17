@@ -1,0 +1,1 @@
+bookmarks helps user to easily switch between different charts on the same screen.

@@ -1,0 +1,9 @@
+1. IN the transactionTime column the values are present in the form date with time.(see image 3(A).png )
+2.we will split this coloumn by delimiter.(see Image 3(B).png   )
+3.the column has got split into 2 columns - transactionTime1 &     transactionTime2 .(see image 3(C).png )
+
+4.Will now delete the transactionTime1 column(as it contains dates and is no use for us) and     rename transactionTime2 coloumn to transactionTime.(see image 3(D).png  )
+
+
+
+NOTE- If we want to apply changes/transformations to data then we must open the data in PQE
