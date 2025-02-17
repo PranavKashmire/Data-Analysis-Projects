@@ -1,0 +1,1 @@
+lets say you are in a company where there are different managers , and you have made a report with different insights, now you want each manager to only see specific insights and not all insights,for that we use Roles in PBI.

@@ -1,0 +1,5 @@
+1.lets say there is requirement form manager that we have got a customer feedback data and we need to do sentiment analysis on that data.
+
+2.for that we have feature In PBi - text analysis .
+
+3.this option will create a new coloumn and give us a score based on the data , more the score better the feeback.

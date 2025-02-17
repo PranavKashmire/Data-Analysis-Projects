@@ -1,0 +1,5 @@
+1.in donoutcchart we need to show the count of active & inactive customers for adding donout chart we need to add additional field in the dataset .
+so will first open PQE ,will create a new coloumn - Active/Inactive ,
+and change its datatype to text.(see image addingNewColoumn.png 
+& NewColoumn-activeInactive.png)
+

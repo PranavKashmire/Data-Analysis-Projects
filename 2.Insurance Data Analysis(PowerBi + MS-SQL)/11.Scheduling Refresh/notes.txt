@@ -1,0 +1,2 @@
+Scheduling Refresh : used to make changes in the report when the data in the data set changes .
+for that after ticking schedulingRefresh (see image schedulingRefresh.png) & download & install the gateway .(see image InstallingGateway.png)

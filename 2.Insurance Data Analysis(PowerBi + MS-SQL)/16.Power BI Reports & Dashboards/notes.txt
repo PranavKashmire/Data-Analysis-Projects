@@ -1,0 +1,3 @@
+1. a report may consist of multipe pages but a dashboard is only of one single page.A report can only be create in PowerBI desktop.
+
+2.to get detailed info we will see the report , to just get a view will se the dashboard.And we can create a dashboard in "PowerBI service" as well.

@@ -1,0 +1,3 @@
+1.there are already many different visuals present in PBI, but we can add new visuls by downloading them .(see image 1.png)
+
+2.we have added the word cloud visual (see image 3.Adding-wordCloud Visual.png)
