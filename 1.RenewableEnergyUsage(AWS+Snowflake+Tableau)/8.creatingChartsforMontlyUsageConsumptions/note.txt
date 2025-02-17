@@ -1,0 +1,15 @@
+we need to create 6charts as follows:
+
+c1.montly usage in KWH in a region
+
+c2.monthly usage by country
+
+c3.monthly usage by Energy Source
+
+c4.cost saving by region
+
+c5.cost saving by country
+
+c6.cost saving by Energy Source
+
+And then finally make report out of it.

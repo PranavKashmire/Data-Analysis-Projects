@@ -1,0 +1,6 @@
+to understand the data we need to apply some basic transformation to the data .
+
+Also we can understand the data more by the charts .
+
+
+also using SQL transform query we can understand the data.

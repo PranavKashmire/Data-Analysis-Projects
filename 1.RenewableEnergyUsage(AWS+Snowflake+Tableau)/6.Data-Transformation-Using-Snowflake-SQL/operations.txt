@@ -1,0 +1,17 @@
+Op2. for the low income level people we need to increase the usage by 10% in the montly_usage coloumn (ssee image - op2)
+
+op3.for middle level by 20% montly_usage coloumn (see image - op3)
+
+
+op4.fro high level by 30 montly_usage coloumn 
+
+
+op5.running simple select statement
+
+
+op6.for the low income level people we need to reduce the cost-saving-usd by 10% in the COST_SAVING_USD coloumn (ssee image - op6)
+
+
+op7.for the middle income level people we need to reduce the cost-saving-usd by 20% in the COST_SAVING_USD coloumn (ssee image - op7)
+
+op8.for the high income level people we need to reduce the cost-saving-usd by 30% in the COST_SAVING_USD coloumn (ssee image - op8)
