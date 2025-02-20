@@ -28,16 +28,27 @@ The dataset contains 3159 records showing rainfall data of different year.
 
 
 ## 🔄 Project Workflow  :
+
 0.Dataset
+
 1.Creating & loading Data to S3 Bucket
+
 2.Creating New Role
+
 3.Creating the Integration Object+ updating Trust Policies
+
 4.Loading Data Into Snowflake
+
 5.Data-Understanding
+
 6.Data-Transformation-Using-Snowflake-SQL
+
 7.Adding Rainfall Group Coloumn
+
 8.Importing the data into PowerBI from Snowflake
+
 9.Adding PowerBi Report Pages
+
 10.Publishing to PowerBI Cloud
 
 ## 📊 Conclusion:
