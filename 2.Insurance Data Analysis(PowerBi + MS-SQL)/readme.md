@@ -30,23 +30,41 @@ The datasets can be accessed by downloading this project.
 
 ## 🔄 Project Workflow  :
 0.Dataset
+
 1.Downloading & Installing MSSQL Server
+
 2.Importing Data to MSSQL Server
+
 3.Loading Data to Power BI Desktop
+
 4.Table View & Data Profiling
+
 5.Adding Slicers & Text
+
 6.Adding New Card Visuals
+
 7.Adding a Multi Row Card & a Ribbon Chart
+
 8.Adding a Bar & a Line Chart
+
 9.Adding a Donut Chart & Matrix Visuals
+
 10.Publishing the Report to Power BI Service
+
 11.Scheduling Refresh
+
 12.Drill Through Filter
+
 13.Testing Scheduled Refresh & Publishing the updated report
+
 14.Creating & Testing Roles in PBI Desktop
+
 15.Testing & Implementing RLS in Power BI Service
+
 16.Power BI Reports & Dashboards
+
 17.Sentiment Analysis Power Query
+
 18.Sentiment Analysis-Adding Visuals to the Report
 
 
