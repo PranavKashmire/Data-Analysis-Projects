@@ -26,21 +26,36 @@ The dataset contains 503 records(male & female) showing their age and other fact
 2.Tableau
 
 
-## 🔄 Project Workflow  :
+## 🔄 Project Workflow  :  
+
 0.Dataset
+
 1.Importing Data to SQL server
+
 2.Modifying Gender Coloumn
+
 3.Adding the Age group coloumn
+
 4.Coloumn distibution for Remaining Coloumns
+
 5.Adding Index Coloumn+Updating Depression coloumn
+
 6.downloading & installing Tableau
+
 7.Bringing Data From SQL server to Tableau desktop
+
 8.Academic Pressure & student count
+
 9.Financial stress & student Count
+
 10.Study Satisfaction & student Count
+
 11.Sleep Duration & Student count
+
 12.Study Hours & student Count
+
 13.Creating student Count Analysis Dashboard
+
 14.Publishing Report to Tableau Cloud
 
 
