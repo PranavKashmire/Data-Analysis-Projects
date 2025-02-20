@@ -29,17 +29,29 @@ The dataset contains 1,000 households using renewable energy sources across diff
 
 
 ## 🔄 Project Workflow  :
+
 0.Dataset
+
 1.Creating & loading Data to S3 Bucket
+
 2.CreatingNewRole
+
 3.Creating the Integration Object+ updating Trust Policies
+
 4.Loading Data Into Snowflake
+
 5.Data-Understanding
+
 6.Data-Transformation-Using-Snowflake-SQL
+
 7.connecting snowflake to tableau
+
 8.creatingCharts for Monthly Usage Consumptions
+
 9.Creating Dashboard
+
 10.10.Publishing to Tableau Cloud
+
 
 ## 📊 Conclusion:
   Creation of a "Energy Consumption Dashborad" which shoes KHW & CSU by country,region and Energy Source.
