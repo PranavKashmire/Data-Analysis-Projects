@@ -19,4 +19,4 @@
 7.Business Inventory Analytics & Optimization (Python, SQL, Pandas, Statsmodels, Matplotlib)
 
 
-Netflix Analysis 
+8.Netflix Analysis(Python, Numpy, Pandas) 
