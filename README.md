@@ -17,3 +17,6 @@
 6.SalesDataAnalysis(powerBI based)
 
 7.Business Inventory Analytics & Optimization (Python, SQL, Pandas, Statsmodels, Matplotlib)
+
+
+Netflix Analysis 
